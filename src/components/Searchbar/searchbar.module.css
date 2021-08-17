@@ -1,0 +1,17 @@
+.searchForm {
+  margin: 12px;
+}
+
+.inputForm {
+  margin-right: 12px;
+  width: 250px;
+  height: 30px;
+}
+
+.buttonForm {
+  width: 90px;
+  height: 40px;
+  border: none;
+  background-color: rgb(102, 165, 238);
+  border-radius: 5px;
+}

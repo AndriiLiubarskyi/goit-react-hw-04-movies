@@ -1,0 +1,17 @@
+.navigation {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(144, 118, 233);
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.active {
+  color: rgb(92, 82, 226);
+}

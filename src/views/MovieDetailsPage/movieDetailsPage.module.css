@@ -1,0 +1,12 @@
+.movieDetailsPage {
+  padding: 12px;
+}
+
+.conteiner {
+  display: flex;
+  margin-top: 12px;
+}
+
+.movieDetails {
+  margin-left: 30px;
+}
